@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Fauna One';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Fauna One'), local('FaunaOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/faunaone/v1/cSd7NBXNFQWK4oX1706dY7O3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Bree Serif'), local('Bree Serif'), url(http://themes.googleusercontent.com/static/fonts/faunaone/v1/cSd7NBXNFQWK4oX1706dY7O3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
